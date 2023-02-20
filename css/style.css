@@ -1,0 +1,104 @@
+* {
+    margin: 0px;
+}
+
+#login {
+    position: absolute;
+    left: 1000px;
+    bottom: 10px;
+    z-index: 1px;
+}
+
+
+#logo {
+    font-family: 'Lobster', cursive;
+    font: 75px solid, 'Lobster';
+    color: white;
+    /* position: absolute; */
+}
+
+nav {
+    width: 100%;
+    background-color: black;
+}
+
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    overflow: hidden;
+    margin-left: 30px;
+}
+
+li {
+    float: left;
+    line-height: 110px;
+}
+
+a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+
+a:hover {
+    background-color: #c4c4c4;
+    transition: 0.5s;
+}
+
+footer {
+    width: 100vw;
+    height: 300px;
+    background-color: black;
+    position: fixed;
+    bottom: 0px;
+    color: white;
+}
+
+.ofertas {
+    background-color: aliceblue;
+    width: 100vw;
+    height: 200px;
+}
+
+
+
+#imagenOfertas {
+    width: 100vw;
+    max-height: 331px;
+    min-height: 331px;
+;}
+
+#imagenser {
+    padding-top: 130px;
+    width: 50vw;
+    height: 100px;
+}
+
+#imagenser {
+    padding-top: 130px;
+    width: 50vw;
+    height: 230px;
+}
+
+
+footer>p {
+    margin: 40px 0px 0px 280px;
+    font-size: 18px;
+    display: inline-block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+#googlemap {
+    float: right;
+    margin: 30px 300px 25px 0px;
+
+
+
+}
